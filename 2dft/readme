@@ -1,0 +1,7 @@
+1. Compute de STFT
+2. Comptute the 2DFT of the STFT
+3. Find peaks in the 2DFT
+4. Create bg/fg masks for the 2DFT
+5. Separate the 2DFT
+6. Create bg/fg masks for the STFT
+7. Separate the STFT

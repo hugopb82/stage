@@ -1,0 +1,4 @@
+axes.titlesize : 20
+axes.labelsize : 16
+font.family : Roboto
+figure.autolayout : False
